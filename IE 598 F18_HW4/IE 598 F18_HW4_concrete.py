@@ -234,3 +234,6 @@ for i in range(len(alpha)):
     print(Elanet_result.iloc[4,i])
     print('Intercept:\n%.3f'%slr.intercept_,'\n')
 
+print("My name is Yuhang Mao")
+print("My NetID is: yuhangm2")
+print("I hereby certify that I have read the University policy on Academic Integrity and that I am not in violation.")
